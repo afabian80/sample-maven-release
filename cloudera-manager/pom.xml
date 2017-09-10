@@ -14,6 +14,7 @@
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <cloudera-manager-api>1.0-SNAPSHOT</cloudera-manager-api>
   </properties>
   <dependencies>
     <dependency>
