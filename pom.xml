@@ -19,4 +19,8 @@
     <module>impala</module>
     <module>cloudera-manager</module>
   </modules>
+
+  <!-- <scm>
+    <developerConnection>scm:gilt:file://df/</developerConnection>
+  </scm> -->
 </project>
